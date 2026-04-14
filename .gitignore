@@ -1,5 +1,7 @@
 .env
 
+~$*.docx
+
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
